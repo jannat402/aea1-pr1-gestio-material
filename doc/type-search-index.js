@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"prt1","l":"Categoria"},{"p":"prt1","l":"InventariRepository"},{"p":"prt1","l":"InventariService"},{"p":"prt1","l":"Main"},{"p":"prt1","l":"Material"},{"p":"prt1","l":"Prestec"}];updateSearchResults();
